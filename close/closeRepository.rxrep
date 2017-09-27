@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="closeRepository"
+id="6044a6c5-eb3c-4da6-8da6-09a4f1984776"
+rxversion="7.1">
+  <codegen
+  classname="closeRepository"
+  namespace="close"/>
+  <rootfolder
+  name="Root"
+  id="c3ed4294-a0d2-433b-bf4f-192f2d0e6ae1"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

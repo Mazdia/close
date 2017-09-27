@@ -1,0 +1,9 @@
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\close\close\bin\Debug\close.rxtmg
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\close\close\bin\Debug\close.rxtst
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\close\close\bin\Debug\close.exe.config
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\close\close\bin\Debug\close.exe
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\close\close\bin\Debug\close.pdb
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\close\close\bin\Debug\Newtonsoft.Json.dll
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\close\close\obj\x86\Debug\close.csprojResolveAssemblyReference.cache
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\close\close\obj\x86\Debug\close.exe
+d:\users\MOLLAHM\Documents\Ranorex\RanorexStudio Projects\close\close\obj\x86\Debug\close.pdb

@@ -1,0 +1,16 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="Program.cs" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="close.rxtst" />
+    <Element value="Recording1.rxrec" />
+    <Element value="Program.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+  </Properties>
+</Properties>
